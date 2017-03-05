@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Proxima Nova";
+  font-family: Proxima Nova,Helvetica,Arial,sans-serif;
   font-weight: 200;
   color: white;
   background-color: black;
@@ -9,6 +9,11 @@ body {
 h1 {
   margin-right: 40px;
   margin-left: 40px;
+}
+
+img {
+  max-height: 60%;
+  max-width: 100%;
 }
 
 .content {
